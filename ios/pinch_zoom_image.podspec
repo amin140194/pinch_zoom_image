@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'pos_pinch_zoom_image'
+  s.name             = 'pinch_zoom_image'
   s.version          = '0.0.1'
   s.summary          = 'A Flutter plugin for reading and writing simple key-value pairs.'
   s.description      = <<-DESC
