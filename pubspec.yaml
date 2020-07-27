@@ -1,8 +1,6 @@
-name: pos_pinch_zoom_image
+name: pinch_zoom_image
 description: A widget that makes picture pinch zoom, then return back to initial size and position when released.
-version: 0.2.1
-author: Ramin Najjarbashi <ramin.najarbashi@gmail.com>
-homepage: https://github.com/ossolution/pinch_zoom_image
+version: 0.3.0
 
 environment:
   sdk: ">=2.0.0 <3.0.0"
@@ -10,7 +8,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cached_network_image: ^0.8.0
+  cached_network_image: ^2.0.0-rc
 
 flutter:
   plugin:
