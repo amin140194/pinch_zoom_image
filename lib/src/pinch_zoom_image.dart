@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pos_pinch_zoom_image/src/pinch_zoom_overlay_image.dart';
+import 'package:pinch_zoom_image/src/pinch_zoom_overlay_image.dart';
 
 class PinchZoomImage extends StatefulWidget {
   final Widget image;
